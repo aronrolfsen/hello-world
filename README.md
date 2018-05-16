@@ -2,5 +2,5 @@
 tutorial repository
 # Another comment
 
-Something new
+Something new \n
 Additional information!
